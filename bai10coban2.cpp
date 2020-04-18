@@ -20,4 +20,4 @@ int main(){
 	if (abs(max-x)<abs(min-x)) printf("%d",min);
 	else printf("%d",max);
 }
-//ahihi
+//test sua
